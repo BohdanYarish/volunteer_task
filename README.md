@@ -1,16 +1,11 @@
 # volunteer_task
 
-A new Flutter project.
+A Flutter project.
 
-## Getting Started
+Now only registration/authentification, saving records about users and tasks in firebase and showing it were implemented.
 
-This project is a starting point for a Flutter application.
+In future i want to implement some filters to categories and two types of users 
 
-A few resources to get you started if this is your first Flutter project:
+To run project you should use: $ flutter run --no-sound-null-safety
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+link to the video https://github.com/BohdanYarish/volunteer_task/blob/master/video1987077469.mp4?raw=true

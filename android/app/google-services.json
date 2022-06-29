@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "998746943034",
+    "project_id": "volunteertask-428f8",
+    "storage_bucket": "volunteertask-428f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998746943034:android:163be333f9bfa462384f03",
+        "android_client_info": {
+          "package_name": "com.example.volunteer_task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "998746943034-m2bpmcjh062g4c8erkhlldboelrouooh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBti6XAoU4p9277s_xAlB58P7t21FYey28"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "998746943034-m2bpmcjh062g4c8erkhlldboelrouooh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
